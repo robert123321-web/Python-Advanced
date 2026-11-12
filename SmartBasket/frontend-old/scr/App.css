@@ -1,0 +1,31 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f7f3;
+  color: #24352a;
+}
+
+.app {
+  min-height: 100vh;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 48px;
+  color: #23834b;
+}
+
+.status {
+  max-width: 450px;
+  margin: 40px auto;
+  padding: 25px;
+  background: white;
+  border-radius: 14px;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.08);
+}
